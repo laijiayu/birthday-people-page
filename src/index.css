@@ -279,6 +279,7 @@ main {
 
 .container h2{
   margin-bottom: 2rem;
+  white-space: nowrap;
 }
 
 .person{
